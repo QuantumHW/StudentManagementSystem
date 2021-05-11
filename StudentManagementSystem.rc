@@ -1,0 +1,107 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+登录方式                    PNG                     "res\\登录方式.png"
+
+欢迎界面                    PNG                     "res\\欢迎界面.png"
+
+教师登录                    PNG                     "res\\教师登录.PNG"
+
+教师主菜单                   PNG                     "res\\教师主菜单.PNG"
+
+查找学生信息                  PNG                     "res\\查找学生信息.PNG"
+
+录入学生信息                  PNG                     "res\\录入学生信息.PNG"
+
+删除学生信息                  PNG                     "res\\删除学生信息.PNG"
+
+修改学生信息                  PNG                     "res\\修改学生信息.PNG"
+
+处理学生信息                  PNG                     "res\\处理学生信息.PNG"
+
+退出界面                    PNG                     "res\\退出界面.png"
+
+学生主菜单                   PNG                     "res\\学生主菜单.PNG"
+
+学生登录                    PNG                     "res\\学生登录.PNG"
+
+成绩单                     PNG                     "res\\成绩单.png"
+
+选择排序科目                  PNG                     "res\\选择排序科目.png"
+
+分析成绩                    PNG                     "res\\分析成绩.png"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "res\\logo.ico"
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
